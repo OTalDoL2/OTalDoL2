@@ -4,7 +4,8 @@
 - 🌱 I’m currently studying Game Developement, on ETE Cicero Dias.
 - 👯 I’m looking to collaborate on Game Development or WebDesign.
 - 🤔 I’m looking for help with increase my knowledge.
-- 💬 Ask me about C# and WebDesign (basic, for the time being)
+- 💬 Ask me about C#, HTML, CSS and JS. 
+- 💬 I'm beginer, but we can talk about React :).
 - 📫 How to reach me: C# 
 - 😄 Pronouns: He
 - ⚡ Fun fact: I´m Nerd and Coffee Lover.
