@@ -1,7 +1,7 @@
 ### Hey, my name is Lucas, but my friends call me by L2 👋
 
 - 🔭 i´m currently learning about Web design and JS.
-- 🌱 I’m currently studying Game Developement, on ETE Cicero Dias.
+- 🌱 I’m currently studying Analysis and Systems Development, on FICR - Faculdade Imaculada da Conceição de Recife.
 - 👯 I’m looking to collaborate on Game Development or WebDesign.
 - 🤔 I’m looking for help with increase my knowledge.
 - 💬 Ask me about C#, HTML, CSS and JS. 
