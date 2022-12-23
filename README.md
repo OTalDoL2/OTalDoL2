@@ -1,12 +1,10 @@
 ### Hey, my name is Lucas, but my friends call me by L2 👋
 
-- 🔭 i´m currently learning about Web design and JS.
+- 🔭 i´m currently learning about Geoprocessing and Python.
 - 🌱 I’m currently studying Analysis and Systems Development, on FICR - Faculdade Imaculada da Conceição de Recife.
-- 👯 I’m looking to collaborate on Game Development or WebDesign.
-- 🤔 I’m looking for help with increase my knowledge.
-- 💬 Ask me about C#, HTML, CSS and JS. 
-- 💬 I'm beginer, but we can talk about React :).
-- 📫 How to reach me: C# 
+- 👯 I’m looking to collaborate on Vue projects.
+- 💬 Ask me about Vuejs and JS. 
+- 💬 I'm beginer, but we can talk about Springboot :). 
 - 😄 Pronouns: He
 - ⚡ Fun fact: I´m Nerd and Coffee Lover.
 
